@@ -10,7 +10,7 @@ This is your first note. You'll find it in the [`notes/`](https://github.com/max
 
 To link to another note, you can use multiple syntaxes. The following four use the "double-bracket" notation ([view the Markdown source file](https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/master/_notes/your-first-note.md#link-syntax) to see the underlying syntax).
 
-- Questa invece è una prova di link al mio articolo sul Mind Garden: [[mind-garden]]
+- Questa invece è una prova di link al mio articolo sul Mind Garden: [mind-garden](/mind-garden){: .internal-link}
 - Using the note title: [[a note about cats]]
 - Using the note's filename: [[cats]]
 - Using the note's title, with a label: [[A note about cats|link to the note about cats using the note title]]
